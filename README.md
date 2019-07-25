@@ -20,5 +20,5 @@
 2) Greedy Algorithm
 3) Backtracking
 4) Dynamic Programming
-5) Graphs:( B.F.S | D.F.S | M.S.T )
+5) Graphs:[   B.F.S | D.F.S | M.S.T   ]
 6) Search And Sort Algorithms

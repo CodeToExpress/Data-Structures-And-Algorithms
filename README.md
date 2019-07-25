@@ -4,7 +4,7 @@
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
 ### Data-Structures-And-Algorithms  :star:
-## The syllabus for week 1 mentioned below:
+#### The syllabus for week 1 mentioned below:
 
 Basic Data Structures: Arrays, Strings, Stacks, Queues
 

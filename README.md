@@ -6,15 +6,13 @@
 ### Data-Structures-And-Algorithms  :star:
 #### [:collision:]-The Syllabus For Week 1 Mentioned Below:
 
-Basic Data Structures: Arrays, Strings, Stacks, Queues
-
-Asymptotic analysis (Big-O notation)
-
-Basic math operations (addition, subtraction, multiplication, division, exponentiation)
-
-Euclid’s GCD Algorithm
-
-
+1) Time Complexity
+2) Proof Of Correctness
+3) Asymptotic analysis(Big-O notation)
+4) Stack And Queus
+5) Linked List
+6) Trees
+7) Hashing
 
 #### [:collision:]-The Syllabus For Week 2 Mentioned Below:
 

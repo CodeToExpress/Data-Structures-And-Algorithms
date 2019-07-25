@@ -3,25 +3,6 @@
 
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be
-
-
 # Data-Structures-And-Algorithms
 The syllabus for each level is mentioned below:
 

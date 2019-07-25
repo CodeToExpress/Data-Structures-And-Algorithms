@@ -1,10 +1,10 @@
-# Data-Structures-And-Algorithms
+# Data-Structures-And-Algorithms :star:
 > The syllabus for each level is mentioned below:
 
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
 ### Data-Structures-And-Algorithms  :star:
-The syllabus for each level is mentioned below:
+## The syllabus for week 1 mentioned below:
 
 Basic Data Structures: Arrays, Strings, Stacks, Queues
 
@@ -16,7 +16,7 @@ Euclid’s GCD Algorithm
 
 
 
-WEEK 1
+The syllabus for week 2 mentioned below:
 
 
 Basic Recursion

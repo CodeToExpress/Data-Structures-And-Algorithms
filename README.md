@@ -4,7 +4,7 @@
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
 ### Data-Structures-And-Algorithms  :star:
-#### [:collision:]-The Syllabus For Week 1 Mentioned Below:
+#### :collision: -The Syllabus For Week 1 Mentioned Below:
 
 1) Time Complexity
 2) Proof Of Correctness
@@ -14,7 +14,7 @@
 6) Trees
 7) Hashing
 
-#### [:collision:]-The Syllabus For Week 2 Mentioned Below:
+#### :collision: -The Syllabus For Week 2 Mentioned Below:
 
 1) Divide And Conquer
 2) Greedy Algorithm

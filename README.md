@@ -17,14 +17,17 @@
 #### [:collision:]-The Syllabus For Week 2 Mentioned Below:
 
 
-Basic Recursion
-
-Greedy Algorithms
-
-Basic Dynamic Programming
-
-Naive string searching
-
-O(n logn) Sorting
-
-Binary Searching
+1) Divide And Conquer
+2) Greedy Algorithm
+3) Backtracking
+4) Dynamic Programming
+5) Graphs:
+      A. BFS
+      B. DFS
+      C. MST
+ 6) Search And Sort Algorithm
+      A. Linear Search
+      B. Binary Search
+      C. Bubble Sort
+      D. Insertion Sort
+      E. Merge Sort

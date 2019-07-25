@@ -7,9 +7,12 @@ Asymptotic analysis (Big-O notation)
 
 Basic math operations (addition, subtraction, multiplication, division, exponentiation)
 
-Sqrt(n) primality testing
-
 Euclid’s GCD Algorithm
+
+
+
+WEEK 1
+
 
 Basic Recursion
 

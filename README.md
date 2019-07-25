@@ -3,7 +3,7 @@
 
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
-# Data-Structures-And-Algorithms
+### Data-Structures-And-Algorithms  :star:
 The syllabus for each level is mentioned below:
 
 Basic Data Structures: Arrays, Strings, Stacks, Queues

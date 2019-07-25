@@ -16,7 +16,6 @@
 
 #### [:collision:]-The Syllabus For Week 2 Mentioned Below:
 
-
 1) Divide And Conquer
 2) Greedy Algorithm
 3) Backtracking

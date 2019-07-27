@@ -5,6 +5,10 @@
 - Topics are Discussed in Following Order
 
 
-###  Time Complexity  :alarm_clock:
+###  Time Complexity  
 - [Check Out this link](https://www.studytonight.com/data-structures/time-complexity-of-algorithms)
 - [Quick Explanation of Time Complexity](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+
+### Asymptotic Notation 
+- [Asymptotic Notations Explained](https://learnxinyminutes.com/docs/asymptotic-notation/)
+- [Simple Explanation](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis)

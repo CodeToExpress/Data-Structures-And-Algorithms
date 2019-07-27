@@ -5,6 +5,6 @@
 - Topics are Discussed in Following Order
 
 
-###  Time Complexity
+###  Time Complexity  :alarm_clock:
 - [Check Out this link](https://www.studytonight.com/data-structures/time-complexity-of-algorithms)
 - [Quick Explanation of Time Complexity](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)

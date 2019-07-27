@@ -6,12 +6,12 @@
 ### Data-Structures-And-Algorithms  :star:
 #### :collision: -The Syllabus For Week 1 Mentioned Below:
 
-1) Time Complexity
+1) Time Complexity :alarm_clock:
 2) Proof Of Correctness
-3) Asymptotic analysis(Big-O notation)
+3) Asymptotic analysis(Big-O notation)  :o:
 4) Stack And Queus
 5) Linked List
-6) Trees
+6) Trees  :evergreen_tree:
 7) Hashing
 
 #### :collision: -The Syllabus For Week 2 Mentioned Below:

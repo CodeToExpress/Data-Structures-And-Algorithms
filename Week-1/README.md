@@ -13,7 +13,11 @@
 - [Asymptotic Notations Explained](https://learnxinyminutes.com/docs/asymptotic-notation/)
 - [Simple Explanation](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis)
 
-### Stacks and Queues
+### Stacks 
 - [Video Explanation](https://www.youtube.com/watch?v=sFVxsglODoo)
 - [Examples of Stacks Programs](https://www.sanfoundry.com/c-programming-examples-stacks/)
 - [Explanation](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm)
+
+### Queues
+- [Explanation of Queues](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue)
+- [Simple Queue example](https://www.c-lang.thiyagaraaj.com/data-structures/c-queue-programs/simple-queue-program-in-c-programming)

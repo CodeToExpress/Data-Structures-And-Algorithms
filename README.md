@@ -31,3 +31,9 @@
 ### Video Series
 - [Video Series 1](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [Video Series 2](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Video Series 3](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w)
+
+### Repos to Follow
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
+- [xtaci/algorithms](https://github.com/xtaci/algorithms)
+- [JavaScript Data Structures](https://github.com/loiane/javascript-datastructures-algorithms)

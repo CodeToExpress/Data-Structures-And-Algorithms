@@ -28,4 +28,8 @@
 - [Questions](https://medium.com/@codingfreak/linked-list-interview-questions-and-practice-problems-55f75302d613)
 
 ### Trees
+- [Everything you need to know](https://dev.to/teekay/everything-you-need-to-know-about-tree-data-structures-2599)
+- [Introduction to Trees](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure)
+- [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 - [Tree Traversals](https://www.youtube.com/watch?v=-b2lciNd2L4)
+

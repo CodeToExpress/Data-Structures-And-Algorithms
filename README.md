@@ -26,7 +26,7 @@
 
 
 ## Some Other Resorces 
-- [Read about the books you can follow](https://hackernoon.com/10-data-structure-algorithms-books-every-programmer-should-read-d50487313127)
+- [Books you can follow](https://hackernoon.com/10-data-structure-algorithms-books-every-programmer-should-read-d50487313127)
 
 ### Video Series
 - [Video Series 1](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)

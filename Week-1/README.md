@@ -21,3 +21,10 @@
 ### Queues
 - [Explanation of Queues](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue)
 - [Simple Queue example](https://www.c-lang.thiyagaraaj.com/data-structures/c-queue-programs/simple-queue-program-in-c-programming)
+
+###  Linked Lists
+- [Intro to linked Lists](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms)
+- [All topics of linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [Questions](https://medium.com/@codingfreak/linked-list-interview-questions-and-practice-problems-55f75302d613)
+
+### Trees

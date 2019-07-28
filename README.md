@@ -22,3 +22,12 @@
 4) Dynamic Programming
 5) Graphs:[ B.F.S | D.F.S | M.S.T ]
 6) Search And Sort Algorithms
+
+
+
+## Some Other Resorces 
+- [Read about the books you can follow](https://hackernoon.com/10-data-structure-algorithms-books-every-programmer-should-read-d50487313127)
+
+### Video Series
+- [Video Series 1](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+- [Video Series 2](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)

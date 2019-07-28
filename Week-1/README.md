@@ -28,3 +28,4 @@
 - [Questions](https://medium.com/@codingfreak/linked-list-interview-questions-and-practice-problems-55f75302d613)
 
 ### Trees
+- [Tree Traversals](https://www.youtube.com/watch?v=-b2lciNd2L4)

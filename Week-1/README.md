@@ -24,11 +24,13 @@
 
 ###  Linked Lists
 - [Intro to linked Lists](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms)
+- [Video Lecture](https://www.youtube.com/watch?v=_jQhALI4ujg)
 - [All topics of linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
 - [Questions](https://medium.com/@codingfreak/linked-list-interview-questions-and-practice-problems-55f75302d613)
 
 ### Trees
 - [Everything you need to know](https://dev.to/teekay/everything-you-need-to-know-about-tree-data-structures-2599)
+- [About Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 - [Introduction to Trees](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure)
 - [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 - [Tree Traversals](https://www.youtube.com/watch?v=-b2lciNd2L4)

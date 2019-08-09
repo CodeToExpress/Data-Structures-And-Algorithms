@@ -30,3 +30,11 @@
 - [Introduction to Graphs](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure)
 -  ### BFS
 	- [About BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
+	- [All you need to know](https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal)
+	- [Code Implemented](https://www.programiz.com/dsa/graph-bfs)
+-  ### DFS
+	- [All you should know](https://www.programiz.com/dsa/graph-dfs)
+	- [DFS concept](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal)
+-  ### MST
+	- [Example](https://www.javatpoint.com/kruskals-minimum-spanning-tree-algorithm)
+	- [Video Explanation](https://www.youtube.com/watch?v=fAuF0EuZVCk)

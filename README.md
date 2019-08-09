@@ -1,10 +1,4 @@
-# Data-Structures-And-Algorithms :star:
-> The Syllabus For Each Level is Mentioned Below :
-
-![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
-
-### Data-Structures-And-Algorithms  :star:
-#### :collision: -The Syllabus For Week 1 Mentioned Below:
+ 
 
 1) Time Complexity :alarm_clock:
 2) Proof Of Correctness
@@ -17,10 +11,10 @@
 #### :collision: -The Syllabus For Week 2 Mentioned Below:
 
 1) Divide And Conquer
-2) Greedy Algorithm
+2) Greedy Algorithm :new_moon_with_face:
 3) Backtracking
-4) Dynamic Programming
-5) Graphs:[ B.F.S | D.F.S | M.S.T ]
+4) Dynamic Programming :pray:
+5) Graphs:[ B.F.S | D.F.S | M.S.T ] :loudspeaker:
 6) Search And Sort Algorithms
 
 

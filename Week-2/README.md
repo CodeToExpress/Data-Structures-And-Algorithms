@@ -12,3 +12,8 @@
 ### Greedy Algorithm
 - [Introduction to Greedy](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms)
 - [20 Greedy Algorithms Interview Questions](https://www.geeksforgeeks.org/top-20-greedy-algorithms-interview-questions/)
+
+### BackTracking
+- [Intro to Backtracking](https://www.javatpoint.com/backtracking-introduction)
+- [Recursive Backtracking](https://www.cs.utexas.edu/~scottm/cs314/handouts/slides/Topic13RecursiveBacktracking.pdf)
+- [Sample Problems](https://www.dailycodingproblem.com/blog/an-introduction-to-backtracking/)

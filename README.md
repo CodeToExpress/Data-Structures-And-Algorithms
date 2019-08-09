@@ -1,4 +1,4 @@
- 
+#### :collision: -The Syllabus For Week 1 Mentioned Below: 
 
 1) Time Complexity :alarm_clock:
 2) Proof Of Correctness
@@ -31,3 +31,4 @@
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 - [xtaci/algorithms](https://github.com/xtaci/algorithms)
 - [JavaScript Data Structures](https://github.com/loiane/javascript-datastructures-algorithms)
+

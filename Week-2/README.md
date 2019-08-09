@@ -24,3 +24,9 @@
 - [What is DP](https://developerinsider.co/introduction-to-dynamic-programming/)
 - [Video Introduction](https://www.youtube.com/watch?v=vYquumk4nWw)
 - [Playlist](https://www.youtube.com/playlist?list=PLamzFoFxwoNjtJZoNNAlYQ_Ixmm2s-CGX)
+- [50 Problem Questions](https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3)
+
+### Graphs:[ B.F.S | D.F.S | M.S.T ]
+- [Introduction to Graphs](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure)
+-  ### BFS
+	- [About BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)

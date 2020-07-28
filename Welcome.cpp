@@ -19,6 +19,6 @@ public:
 int main()
 {
   Welcome welcome;
-  std::cout<<"Welcome To Data Structure And Algorithm 101 Mr. "<<welcome.ToDataStructure("NAME");
+  std::cout<<"Welcome To Data Structure And Algorithm 101 Mr. "<< welcome.ToDataStructure("NAME");
   return NULL;
 }
